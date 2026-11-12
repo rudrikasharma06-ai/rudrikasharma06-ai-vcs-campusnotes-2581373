@@ -1,0 +1,12 @@
+#!/bin/sh
+
+echo "Running pre-commit hook..."
+
+if git grep --cached -n -E 'TODO|FIXME' -- . ':(exclude).githooks/**'; then
+    echo "ERROR: TODO or FIXME found in staged files."
+    echo "Please remove these markers before committing."
+    exit 1
+fi
+
+echo "Pre-commit check passed!"
+exit 0

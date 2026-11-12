@@ -1,1 +1,9 @@
+# Collaborative Notes
+
+## Repository Information
 This file was created in the second cloned repository.
+
+## Learning Objectives
+- Understand repository cloning.
+- Practice working with multiple repositories.
+- Learn collaboration using Git.

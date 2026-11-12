@@ -1,0 +1,15 @@
+CampusNotes - Study Resources
+
+1. Programming
+   - Practice coding problems.
+   - Learn programming fundamentals.
+
+2. Version Control
+   - Understand Git commands.
+   - Practice GitHub collaboration.
+
+3. Data Structures
+   - Study arrays, stacks, queues and linked lists.
+
+4. Database Management
+   - Learn SQL and database concepts.

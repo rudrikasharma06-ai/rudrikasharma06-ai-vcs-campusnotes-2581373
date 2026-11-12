@@ -1,1 +1,9 @@
-This is my feature branch for the VCS assignment.
+Feature Branch Notes
+
+This file contains notes created on the feature branch
+for the Version Control System assignment.
+
+Purpose:
+- Practice creating branches.
+- Understand Git commits.
+- Learn how to collaborate using GitHub.
